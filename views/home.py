@@ -6,8 +6,8 @@ st.title("Meine erste Streamlit App")
 
 """
 Diese App wurde von folgenden Personen entwickelt:
--Nadia Devi Jayapragash (jayapnad@students.zhaw.ch)
--Giuliana Gross (grossgiu@students.zhaw.ch)
+- Nadia Devi Jayapragash (jayapnad@students.zhaw.ch)
+- Giuliana Gross (grossgiu@students.zhaw.ch)
 
 Diese App ist das leere Gerüst für die App-Entwicklung im Modul Informatik 2 (BMLD/ZHAW)
 
